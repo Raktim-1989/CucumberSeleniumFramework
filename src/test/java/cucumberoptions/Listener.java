@@ -9,6 +9,8 @@ public class Listener implements ITestListener{
 	@Override
 	public void onTestStart(ITestResult result) {
 		System.out.println("Test started");
+System.out.println("Test started1");
+System.out.println("Test started2");
 		
 	}
 
