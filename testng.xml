@@ -4,7 +4,7 @@
 <listeners>
 <listener class-name="cucumberoptions.Listener"/>
 </listeners>
-  <test name="Basic Cucumber test">
+  <test name="Basic-Cucumber test">
   <classes>
   <class name = "cucumberoptions.TestRunner"/>
   </classes>
